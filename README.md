@@ -1,2 +1,2 @@
-# Verificador de Idade
- Verificador de idade com JavaScript :zap:
+# Calculaora
+Calculadora feita com HTML, CSS e JavaScript
